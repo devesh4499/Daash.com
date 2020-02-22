@@ -1,0 +1,61 @@
+<html>
+<head>
+<style>
+    body{
+        background-image:url(iris.jpg);
+    }
+#admin
+{
+text-align:center;
+margin-right: 20px;
+}
+#des
+{
+text-align:center;
+margin-top:100px;
+font-size:50px;
+}
+#b1
+{
+border:none;
+
+height:50px;
+background-color:red;
+color: #fff;
+
+}
+
+#b1:hover
+{
+background:#ffc107;
+
+color:#000;
+} 
+</style>
+</head>
+<body>
+<form method="POST" action="admin2.php">
+<div id="des">
+Choose Model:
+<select style="width:150px; height:35px;" name="selection">
+
+<option selected="urus" style="width:200px;"><b> Urus </option selected>
+<b>
+<option value="AventadorS">  AventadorS </option>
+<option value="huracan"> Huracan X </option>
+<option value="BMW"> BMW x6 </option>
+<optio value="coupe"> Coupe </option>
+<option value="chiron"> Chiron </option>
+<option value="veryon"> Veyron </option>
+</div>
+</select><br><br>
+From:
+<input type="date" name="given"><br><br>
+To:
+<input type="date" name="a"><br><br>
+<input type="submit" value="Get the details" id="b1"> 
+</form>
+</body>
+</html>
+
+ 
