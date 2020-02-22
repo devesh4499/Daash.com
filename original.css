@@ -1,0 +1,216 @@
+body{
+  margin: 0;
+}
+.start{
+  padding-left: 20px;
+  padding-top: 20px;
+  position: relative;
+
+}
+.zero{
+    float: left;
+    width:5%;
+    margin-bottom: 20px;
+}
+
+
+
+.third{
+float: right;
+  margin-left: 30px;
+  margin-right: 130px;
+  margin-top:60px;
+  font-family: Gotham Medium,"M Hei PRC W45","M Hei HK W42","M Hei HK W40","HelveticaNeue-Regular","Helvetica Neue Regular","Helvetica Neue",Helvetica,Arial,sans-serif;
+font-weight: normal;
+
+
+
+}
+.fourth{
+  margin-left: 1000px;
+
+}
+
+
+h1{
+
+  font-size: 50px;
+
+  font-family: sans-serif;
+
+
+}
+.fifth-a{
+
+  width: 100%;
+
+}
+
+.fifth-a img{
+
+
+width: 100%;
+}
+.ninth{
+
+
+  text-align: center;
+  margin-bottom: 80px;
+  margin-top: 80px;
+}
+
+.desc1{
+  text-align: center;
+  margin-top: 0;
+}
+
+
+
+*{
+box-sizing: border-box;
+}
+
+.column {
+float: left;
+width: 50%;
+
+}
+.row{
+  margin-top: 20px;
+}
+
+
+.row::after {
+content: "";
+clear: both;
+display: table;
+
+}
+.column img{
+width:50%;
+height: 450px;
+}
+.desc{
+  text-align: center;
+}
+
+
+
+.news{
+  text-align: center;
+
+  font-size: 50px;
+  margin-bottom: 0px;
+  background-color: #FFF;
+  margin-top: 50px;
+}
+
+
+*{
+box-sizing: border-box;
+}
+
+.column1{
+float: left;
+width: 30%;
+height: auto;
+margin: 20px;
+
+}
+.row1{
+  margin-top: -4px;
+}
+
+
+.row::after {
+content: "";
+clear: both;
+display: table;
+
+}
+.column1 img{
+width:33.37%;
+height:300px;
+}
+.desc2{
+  text-align: center;
+}
+
+
+
+h2{
+  color: #333333;
+  font-family: Century Gothic, sans-serif;
+  font-size: 40px;
+}
+
+
+h3{
+  font-family: Gotham Medium,"M Hei PRC W45","M Hei HK W42","M Hei HK W40","HelveticaNeue-Regular","Helvetica Neue Regular","Helvetica Neue",Helvetica,Arial,sans-serif;
+font-weight: normal;
+text-align: center;
+}
+
+h5{
+  color: #FFF:
+  margin-bottom:200px;
+}
+
+p{
+
+  font-size: 1.1rem;
+  font-weight: 500;
+font-family: Helvetica,Arial,Serif;
+text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.eleven{
+
+  padding:50px;
+    background-color: #242424;
+margin-top: 20px;
+}
+.twelth{
+  margin-left:470px;
+  margin-bottom: 70px;
+  color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+.tsla {
+
+
+  float: left;
+margin-left: 15px;
+
+
+color: #FFFFFF;
+
+}
+.margin{
+  margin-top: 40px;
+}
+.column1:hover
+{
+opacity:0.6;
+}

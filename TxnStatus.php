@@ -33,11 +33,24 @@
 <head>
 <title>Transaction status query</title>
 <meta name="GENERATOR" content="Evrsoft First Page">
+<style>
+body{
+
+	background-image: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147));
+}
+#d1{
+	text-align:center;
+}
+#d2{
+	margin-left:40%;
+}
+</style>
 </head>
 <body>
+	<div id="d1">
 	<h2>Transaction status query</h2>
 	<form method="post" action="">
-		<table border="1">
+		<table border="1" id="d2">
 			<tbody>
 				<tr>
 					<td><label>ORDER_ID::*</label></td>
@@ -74,5 +87,6 @@
 		}
 		?>
 	</form>
+	</div>
 </body>
 </html>

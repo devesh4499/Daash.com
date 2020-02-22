@@ -98,7 +98,7 @@ td{
 					<td><label>txnAmount*</label></td>
 					<td><input title="TXN_AMOUNT" tabindex="10"
 						type="text" name="TXN_AMOUNT"
-						value="1">
+						value="3.10 CRORE">
 					</td>
 				</tr>
 				<tr>
@@ -109,6 +109,7 @@ td{
 			</tbody>
 		</table>
 		* - Mandatory Fields
+		<img src="urus shan.jpg" width=500px height=350px style="float:right; margin-top:-350px; margin-right:80px; border-radius:25px;" >
 	</form>
 </body>
 </html>
